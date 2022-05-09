@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/EthernetPacketDetector/Ethernet_Packet_Detector_Test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="Ethernet_Packet_Detector_Test" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="22" />
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/outputs" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">outputs[4:0]</obj_property>
+      <obj_property name="ObjectShortName">outputs[4:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/expected_outputs" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">expected_outputs[4:0]</obj_property>
+      <obj_property name="ObjectShortName">expected_outputs[4:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/control" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">control</obj_property>
+      <obj_property name="ObjectShortName">control</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/count" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">count[7:0]</obj_property>
+      <obj_property name="ObjectShortName">count[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/preamble_valid" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">preamble_valid</obj_property>
+      <obj_property name="ObjectShortName">preamble_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/dst_addr_valid" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">dst_addr_valid</obj_property>
+      <obj_property name="ObjectShortName">dst_addr_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/src_addr_valid" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">src_addr_valid</obj_property>
+      <obj_property name="ObjectShortName">src_addr_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/type_length_valid" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">type_length_valid</obj_property>
+      <obj_property name="ObjectShortName">type_length_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/packet_size_valid" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">packet_size_valid</obj_property>
+      <obj_property name="ObjectShortName">packet_size_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/valid_packet_counter" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">valid_packet_counter[3:0]</obj_property>
+      <obj_property name="ObjectShortName">valid_packet_counter[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/state" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">state[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/next_state" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">next_state[3:0]</obj_property>
+      <obj_property name="ObjectShortName">next_state[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/counter_load1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">counter_load1</obj_property>
+      <obj_property name="ObjectShortName">counter_load1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/IFG" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">IFG[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IFG[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/Preamble0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Preamble0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Preamble0[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/Preamble1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Preamble1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Preamble1[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/Dst0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Dst0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Dst0[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/Dst1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Dst1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Dst1[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Ethernet_Packet_Detector_Test/uut/Src0" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Src0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Src0[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

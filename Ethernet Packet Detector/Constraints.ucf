@@ -1,0 +1,27 @@
+#Clock constraints 
+NET "clk" TNM_NET =clk_group;
+TIMESPEC TS_clk = PERIOD "clk_group" 230 MHz HIGH 50%;
+# PlanAhead Generated physical constraints 
+NET "clk" LOC = P56;
+NET "reset" LOC = P29;
+NET "control" LOC = P30;
+
+NET "data<0>" LOC = P143;
+NET "data<1>" LOC = P144;
+NET "data<2>" LOC = P1;
+NET "data<3>" LOC = P2;
+NET "data<4>" LOC = P51;
+NET "data<5>" LOC = P50;
+NET "data<6>" LOC = P41;
+NET "data<7>" LOC = P40;
+
+NET "preamble_valid" LOC = P58;
+NET "dst_addr_valid" LOC = P57;
+NET "src_addr_valid" LOC = P67;
+NET "type_length_valid" LOC = P66;
+NET "packet_size_valid" LOC = P75;
+NET "valid_packet_counter<0>" LOC = P74;
+NET "valid_packet_counter<1>" LOC = P79;
+NET "valid_packet_counter<2>" LOC = P78;
+NET "valid_packet_counter<3>" LOC = P114;
+

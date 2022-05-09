@@ -1,0 +1,1759 @@
+Time =        106 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        116 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        126 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        136 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        146 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        156 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        166 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        176 ns -- Control bit = 1 -- Data_in = d5 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        186 ns -- Control bit = 1 -- Data_in = 01 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 10000 -- Expected outputs = 10000 -- Valid packet counter= 0 
+ 
+Time =        196 ns -- Control bit = 1 -- Data_in = 02 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        206 ns -- Control bit = 1 -- Data_in = 03 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        216 ns -- Control bit = 1 -- Data_in = 04 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        226 ns -- Control bit = 1 -- Data_in = 05 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        236 ns -- Control bit = 1 -- Data_in = 06 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        246 ns -- Control bit = 1 -- Data_in = ff -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 01000 -- Expected outputs = 01000 -- Valid packet counter= 0 
+ 
+Time =        256 ns -- Control bit = 1 -- Data_in = fe -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        266 ns -- Control bit = 1 -- Data_in = fd -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        276 ns -- Control bit = 1 -- Data_in = fc -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        286 ns -- Control bit = 1 -- Data_in = fb -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        296 ns -- Control bit = 1 -- Data_in = fa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        306 ns -- Control bit = 1 -- Data_in = 08 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00100 -- Expected outputs = 00100 -- Valid packet counter= 0 
+ 
+Time =        316 ns -- Control bit = 1 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        326 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00010 -- Expected outputs = 00010 -- Valid packet counter= 0 
+ 
+Time =        336 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        346 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        356 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        366 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        376 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        386 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        396 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        406 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        416 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        426 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        436 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        446 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        456 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        466 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        476 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        486 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        496 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        506 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        516 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        526 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        536 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        546 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        556 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        566 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        576 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        586 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        596 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        606 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        616 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        626 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        636 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        646 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        656 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        666 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        676 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        686 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        696 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        706 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        716 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        726 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        736 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        746 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        756 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        766 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        776 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        786 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        796 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        806 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        816 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 0 
+ 
+Time =        826 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00001 -- Expected outputs = 00001 -- Valid packet counter= 0 
+ 
+Time =        836 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        846 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        856 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        866 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        876 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        886 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        896 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        906 ns -- Control bit = 1 -- Data_in = d5 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        916 ns -- Control bit = 1 -- Data_in = 01 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 10000 -- Expected outputs = 10000 -- Valid packet counter= 1 
+ 
+Time =        926 ns -- Control bit = 1 -- Data_in = 02 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        936 ns -- Control bit = 1 -- Data_in = 03 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        946 ns -- Control bit = 1 -- Data_in = 04 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        956 ns -- Control bit = 1 -- Data_in = 05 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        966 ns -- Control bit = 1 -- Data_in = 06 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        976 ns -- Control bit = 1 -- Data_in = ff -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 01000 -- Expected outputs = 01000 -- Valid packet counter= 1 
+ 
+Time =        986 ns -- Control bit = 1 -- Data_in = fe -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =        996 ns -- Control bit = 1 -- Data_in = fd -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1006 ns -- Control bit = 1 -- Data_in = fc -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1016 ns -- Control bit = 1 -- Data_in = fb -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1026 ns -- Control bit = 1 -- Data_in = fa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1036 ns -- Control bit = 1 -- Data_in = 08 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00100 -- Expected outputs = 00100 -- Valid packet counter= 1 
+ 
+Time =       1046 ns -- Control bit = 1 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1056 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00010 -- Expected outputs = 00010 -- Valid packet counter= 1 
+ 
+Time =       1066 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1076 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1086 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1096 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1106 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1116 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1126 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1136 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1146 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1156 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1166 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1176 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1186 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1196 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1206 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1216 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1226 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1236 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1246 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1256 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1266 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1276 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1286 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1296 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1306 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1316 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1326 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1336 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1346 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1356 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1366 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1376 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1386 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1396 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1406 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1416 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1426 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1436 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1446 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1456 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1466 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1476 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1486 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1496 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1506 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1516 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1526 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1536 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1546 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 1 
+ 
+Time =       1556 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00001 -- Expected outputs = 00001 -- Valid packet counter= 1 
+ 
+Time =       1566 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1576 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1586 ns -- Control bit = 0 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1596 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1606 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1616 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1626 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1636 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1646 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1656 ns -- Control bit = 1 -- Data_in = d5 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1666 ns -- Control bit = 1 -- Data_in = 01 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1676 ns -- Control bit = 1 -- Data_in = 02 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1686 ns -- Control bit = 1 -- Data_in = 03 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1696 ns -- Control bit = 1 -- Data_in = 04 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1706 ns -- Control bit = 1 -- Data_in = 05 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1716 ns -- Control bit = 1 -- Data_in = 06 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1726 ns -- Control bit = 1 -- Data_in = ff -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1736 ns -- Control bit = 1 -- Data_in = fe -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1746 ns -- Control bit = 1 -- Data_in = fd -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1756 ns -- Control bit = 1 -- Data_in = fc -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1766 ns -- Control bit = 1 -- Data_in = fb -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1776 ns -- Control bit = 1 -- Data_in = fa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1786 ns -- Control bit = 1 -- Data_in = 08 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1796 ns -- Control bit = 1 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1806 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1816 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1826 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1836 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1846 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1856 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1866 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1876 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1886 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1896 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1906 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1916 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1926 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1936 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1946 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1956 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1966 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1976 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1986 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       1996 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2006 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2016 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2026 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2036 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2046 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2056 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2066 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2076 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2086 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2096 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2106 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2116 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2126 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2136 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2146 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2156 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2166 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2176 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2186 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2196 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2206 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2216 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2226 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2236 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2246 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2256 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2266 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2276 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2286 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2296 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2306 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2316 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2326 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2336 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2346 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2356 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2366 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2376 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2386 ns -- Control bit = 1 -- Data_in = d5 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2396 ns -- Control bit = 1 -- Data_in = 01 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 10000 -- Expected outputs = 10000 -- Valid packet counter= 2 
+ 
+Time =       2406 ns -- Control bit = 1 -- Data_in = 02 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2416 ns -- Control bit = 1 -- Data_in = 03 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2426 ns -- Control bit = 1 -- Data_in = 04 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2436 ns -- Control bit = 1 -- Data_in = 05 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2446 ns -- Control bit = 1 -- Data_in = 06 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2456 ns -- Control bit = 1 -- Data_in = ff -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 01000 -- Expected outputs = 01000 -- Valid packet counter= 2 
+ 
+Time =       2466 ns -- Control bit = 1 -- Data_in = fe -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2476 ns -- Control bit = 1 -- Data_in = fd -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2486 ns -- Control bit = 1 -- Data_in = fc -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2496 ns -- Control bit = 1 -- Data_in = fb -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2506 ns -- Control bit = 1 -- Data_in = fa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2516 ns -- Control bit = 1 -- Data_in = 08 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00100 -- Expected outputs = 00100 -- Valid packet counter= 2 
+ 
+Time =       2526 ns -- Control bit = 1 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2536 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00010 -- Expected outputs = 00010 -- Valid packet counter= 2 
+ 
+Time =       2546 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2556 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2566 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2576 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2586 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2596 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2606 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2616 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2626 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2636 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2646 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2656 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2666 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2676 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2686 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2696 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2706 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2716 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2726 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2736 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2746 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2756 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2766 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2776 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2786 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2796 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2806 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2816 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2826 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2836 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2846 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2856 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2866 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2876 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2886 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2896 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2906 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2916 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2926 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2936 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2946 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2956 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2966 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2976 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2986 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       2996 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       3006 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       3016 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       3026 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 2 
+ 
+Time =       3036 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00001 -- Expected outputs = 00001 -- Valid packet counter= 2 
+ 
+Time =       3046 ns -- Control bit = 0 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3056 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3066 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3076 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3086 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3096 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3106 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3116 ns -- Control bit = 1 -- Data_in = d5 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3126 ns -- Control bit = 1 -- Data_in = 01 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3136 ns -- Control bit = 1 -- Data_in = 02 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3146 ns -- Control bit = 1 -- Data_in = 03 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3156 ns -- Control bit = 1 -- Data_in = 04 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3166 ns -- Control bit = 1 -- Data_in = 05 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3176 ns -- Control bit = 1 -- Data_in = 06 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3186 ns -- Control bit = 1 -- Data_in = ff -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3196 ns -- Control bit = 1 -- Data_in = fe -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3206 ns -- Control bit = 1 -- Data_in = fd -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3216 ns -- Control bit = 1 -- Data_in = fc -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3226 ns -- Control bit = 1 -- Data_in = fb -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3236 ns -- Control bit = 1 -- Data_in = fa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3246 ns -- Control bit = 1 -- Data_in = 08 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3256 ns -- Control bit = 1 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3266 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3276 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3286 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3296 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3306 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3316 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3326 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3336 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3346 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3356 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3366 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3376 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3386 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3396 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3406 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3416 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3426 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3436 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3446 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3456 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3466 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3476 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3486 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3496 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3506 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3516 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3526 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3536 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3546 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3556 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3566 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3576 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3586 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3596 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3606 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3616 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3626 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3636 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3646 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3656 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3666 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3676 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3686 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3696 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3706 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3716 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3726 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3736 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3746 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3756 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3766 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3776 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3786 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3796 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3806 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3816 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3826 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3836 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3846 ns -- Control bit = 1 -- Data_in = d5 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3856 ns -- Control bit = 1 -- Data_in = 01 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 10000 -- Expected outputs = 10000 -- Valid packet counter= 3 
+ 
+Time =       3866 ns -- Control bit = 1 -- Data_in = 02 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3876 ns -- Control bit = 1 -- Data_in = 03 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3886 ns -- Control bit = 1 -- Data_in = 04 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3896 ns -- Control bit = 1 -- Data_in = 05 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3906 ns -- Control bit = 1 -- Data_in = 06 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3916 ns -- Control bit = 1 -- Data_in = ff -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 01000 -- Expected outputs = 01000 -- Valid packet counter= 3 
+ 
+Time =       3926 ns -- Control bit = 1 -- Data_in = fe -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3936 ns -- Control bit = 1 -- Data_in = fd -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3946 ns -- Control bit = 1 -- Data_in = fc -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3956 ns -- Control bit = 1 -- Data_in = fb -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3966 ns -- Control bit = 1 -- Data_in = fa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3976 ns -- Control bit = 1 -- Data_in = 08 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00100 -- Expected outputs = 00100 -- Valid packet counter= 3 
+ 
+Time =       3986 ns -- Control bit = 1 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       3996 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00010 -- Expected outputs = 00010 -- Valid packet counter= 3 
+ 
+Time =       4006 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4016 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4026 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4036 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4046 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4056 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4066 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4076 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4086 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4096 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4106 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4116 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4126 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4136 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4146 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4156 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4166 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4176 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4186 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4196 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4206 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4216 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4226 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4236 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4246 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4256 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4266 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4276 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4286 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4296 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4306 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4316 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4326 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4336 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4346 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4356 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4366 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4376 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4386 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4396 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4406 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4416 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4426 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4436 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4446 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4456 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4466 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4476 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4486 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 3 
+ 
+Time =       4496 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00001 -- Expected outputs = 00001 -- Valid packet counter= 3 
+ 
+Time =       4506 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4516 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4526 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4536 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4546 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4556 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4566 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4576 ns -- Control bit = 1 -- Data_in = d5 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4586 ns -- Control bit = 1 -- Data_in = 01 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 10000 -- Expected outputs = 10000 -- Valid packet counter= 4 
+ 
+Time =       4596 ns -- Control bit = 1 -- Data_in = 02 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4606 ns -- Control bit = 1 -- Data_in = 03 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4616 ns -- Control bit = 1 -- Data_in = 04 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4626 ns -- Control bit = 1 -- Data_in = 05 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4636 ns -- Control bit = 1 -- Data_in = 06 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4646 ns -- Control bit = 1 -- Data_in = ff -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 01000 -- Expected outputs = 01000 -- Valid packet counter= 4 
+ 
+Time =       4656 ns -- Control bit = 1 -- Data_in = fe -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4666 ns -- Control bit = 1 -- Data_in = fd -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4676 ns -- Control bit = 1 -- Data_in = fc -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4686 ns -- Control bit = 1 -- Data_in = fb -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4696 ns -- Control bit = 1 -- Data_in = fa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4706 ns -- Control bit = 1 -- Data_in = 08 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00100 -- Expected outputs = 00100 -- Valid packet counter= 4 
+ 
+Time =       4716 ns -- Control bit = 1 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4726 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00010 -- Expected outputs = 00010 -- Valid packet counter= 4 
+ 
+Time =       4736 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4746 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4756 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4766 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4776 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4786 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4796 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4806 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4816 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4826 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4836 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4846 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4856 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4866 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4876 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4886 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4896 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4906 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4916 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4926 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4936 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4946 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4956 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4966 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4976 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4986 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       4996 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5006 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5016 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5026 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5036 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5046 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5056 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5066 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5076 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5086 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5096 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5106 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5116 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5126 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5136 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5146 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5156 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5166 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5176 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5186 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5196 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5206 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5216 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 4 
+ 
+Time =       5226 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00001 -- Expected outputs = 00001 -- Valid packet counter= 4 
+ 
+Time =       5236 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5246 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5256 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5266 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5276 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5286 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5296 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5306 ns -- Control bit = 1 -- Data_in = d5 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5316 ns -- Control bit = 1 -- Data_in = 01 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 10000 -- Expected outputs = 10000 -- Valid packet counter= 5 
+ 
+Time =       5326 ns -- Control bit = 1 -- Data_in = 02 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5336 ns -- Control bit = 1 -- Data_in = 03 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5346 ns -- Control bit = 1 -- Data_in = 04 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5356 ns -- Control bit = 1 -- Data_in = 05 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5366 ns -- Control bit = 1 -- Data_in = 06 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5376 ns -- Control bit = 1 -- Data_in = ff -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 01000 -- Expected outputs = 01000 -- Valid packet counter= 5 
+ 
+Time =       5386 ns -- Control bit = 1 -- Data_in = fe -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5396 ns -- Control bit = 1 -- Data_in = fd -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5406 ns -- Control bit = 1 -- Data_in = fc -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5416 ns -- Control bit = 1 -- Data_in = fb -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5426 ns -- Control bit = 1 -- Data_in = fa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5436 ns -- Control bit = 1 -- Data_in = 08 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00100 -- Expected outputs = 00100 -- Valid packet counter= 5 
+ 
+Time =       5446 ns -- Control bit = 1 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5456 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00010 -- Expected outputs = 00010 -- Valid packet counter= 5 
+ 
+Time =       5466 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5476 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5486 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5496 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5506 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5516 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5526 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5536 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5546 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5556 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5566 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5576 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5586 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5596 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5606 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5616 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5626 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5636 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5646 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5656 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5666 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5676 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5686 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5696 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5706 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5716 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5726 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5736 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5746 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5756 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5766 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5776 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5786 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5796 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5806 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5816 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5826 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5836 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5846 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5856 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5866 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5876 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5886 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5896 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5906 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5916 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5926 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5936 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5946 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 5 
+ 
+Time =       5956 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00001 -- Expected outputs = 00001 -- Valid packet counter= 5 
+ 
+Time =       5966 ns -- Control bit = 0 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       5976 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       5986 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       5996 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6006 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6016 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6026 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6036 ns -- Control bit = 1 -- Data_in = d5 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6046 ns -- Control bit = 1 -- Data_in = 01 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6056 ns -- Control bit = 1 -- Data_in = 02 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6066 ns -- Control bit = 1 -- Data_in = 03 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6076 ns -- Control bit = 1 -- Data_in = 04 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6086 ns -- Control bit = 1 -- Data_in = 05 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6096 ns -- Control bit = 1 -- Data_in = 06 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6106 ns -- Control bit = 1 -- Data_in = ff -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6116 ns -- Control bit = 1 -- Data_in = fe -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6126 ns -- Control bit = 1 -- Data_in = fd -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6136 ns -- Control bit = 1 -- Data_in = fc -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6146 ns -- Control bit = 1 -- Data_in = fb -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6156 ns -- Control bit = 1 -- Data_in = fa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6166 ns -- Control bit = 1 -- Data_in = 08 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6176 ns -- Control bit = 1 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6186 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6196 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6206 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6216 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6226 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6236 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6246 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6256 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6266 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6276 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6286 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6296 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6306 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6316 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6326 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6336 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6346 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6356 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6366 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6376 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6386 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6396 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6406 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6416 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6426 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6436 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6446 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6456 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6466 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6476 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6486 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6496 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6506 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6516 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6526 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6536 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6546 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6556 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6566 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6576 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6586 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6596 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6606 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6616 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6626 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6636 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6646 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6656 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6666 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6676 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6686 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6696 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6706 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6716 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6726 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6736 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6746 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6756 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6766 ns -- Control bit = 1 -- Data_in = d5 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6776 ns -- Control bit = 1 -- Data_in = 01 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 10000 -- Expected outputs = 10000 -- Valid packet counter= 6 
+ 
+Time =       6786 ns -- Control bit = 1 -- Data_in = 02 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6796 ns -- Control bit = 1 -- Data_in = 03 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6806 ns -- Control bit = 1 -- Data_in = 04 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6816 ns -- Control bit = 1 -- Data_in = 05 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6826 ns -- Control bit = 1 -- Data_in = 06 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6836 ns -- Control bit = 1 -- Data_in = ff -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 01000 -- Expected outputs = 01000 -- Valid packet counter= 6 
+ 
+Time =       6846 ns -- Control bit = 1 -- Data_in = fe -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6856 ns -- Control bit = 1 -- Data_in = fd -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6866 ns -- Control bit = 1 -- Data_in = fc -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6876 ns -- Control bit = 1 -- Data_in = fb -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6886 ns -- Control bit = 1 -- Data_in = fa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6896 ns -- Control bit = 1 -- Data_in = 08 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00100 -- Expected outputs = 00100 -- Valid packet counter= 6 
+ 
+Time =       6906 ns -- Control bit = 1 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6916 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00010 -- Expected outputs = 00010 -- Valid packet counter= 6 
+ 
+Time =       6926 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6936 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6946 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6956 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6966 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6976 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6986 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       6996 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7006 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7016 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7026 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7036 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7046 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7056 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7066 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7076 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7086 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7096 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7106 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7116 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7126 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7136 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7146 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7156 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7166 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7176 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7186 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7196 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7206 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7216 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7226 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7236 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7246 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7256 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7266 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7276 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7286 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7296 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7306 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7316 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7326 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7336 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7346 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7356 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7366 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7376 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7386 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7396 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7406 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 6 
+ 
+Time =       7416 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00001 -- Expected outputs = 00001 -- Valid packet counter= 6 
+ 
+Time =       7426 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7436 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7446 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7456 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7466 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7476 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7486 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7496 ns -- Control bit = 1 -- Data_in = d5 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7506 ns -- Control bit = 1 -- Data_in = 01 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 10000 -- Expected outputs = 10000 -- Valid packet counter= 7 
+ 
+Time =       7516 ns -- Control bit = 1 -- Data_in = 02 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7526 ns -- Control bit = 1 -- Data_in = 03 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7536 ns -- Control bit = 1 -- Data_in = 04 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7546 ns -- Control bit = 1 -- Data_in = 05 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7556 ns -- Control bit = 1 -- Data_in = 06 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7566 ns -- Control bit = 1 -- Data_in = ff -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 01000 -- Expected outputs = 01000 -- Valid packet counter= 7 
+ 
+Time =       7576 ns -- Control bit = 1 -- Data_in = fe -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7586 ns -- Control bit = 1 -- Data_in = fd -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7596 ns -- Control bit = 1 -- Data_in = fc -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7606 ns -- Control bit = 1 -- Data_in = fb -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7616 ns -- Control bit = 1 -- Data_in = fa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7626 ns -- Control bit = 1 -- Data_in = 08 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00100 -- Expected outputs = 00100 -- Valid packet counter= 7 
+ 
+Time =       7636 ns -- Control bit = 1 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7646 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00010 -- Expected outputs = 00010 -- Valid packet counter= 7 
+ 
+Time =       7656 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7666 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7676 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7686 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7696 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7706 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7716 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7726 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7736 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7746 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7756 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7766 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7776 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7786 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7796 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7806 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7816 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7826 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7836 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7846 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7856 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7866 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7876 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7886 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7896 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7906 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7916 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7926 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7936 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7946 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7956 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7966 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7976 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7986 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       7996 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8006 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8016 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8026 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8036 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8046 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8056 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8066 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8076 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8086 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8096 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8106 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8116 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8126 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8136 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 7 
+ 
+Time =       8146 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00001 -- Expected outputs = 00001 -- Valid packet counter= 7 
+ 
+Time =       8156 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8166 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8176 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8186 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8196 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8206 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8216 ns -- Control bit = 1 -- Data_in = 55 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8226 ns -- Control bit = 1 -- Data_in = d5 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8236 ns -- Control bit = 1 -- Data_in = 01 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 10000 -- Expected outputs = 10000 -- Valid packet counter= 8 
+ 
+Time =       8246 ns -- Control bit = 1 -- Data_in = 02 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8256 ns -- Control bit = 1 -- Data_in = 03 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8266 ns -- Control bit = 1 -- Data_in = 04 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8276 ns -- Control bit = 1 -- Data_in = 05 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8286 ns -- Control bit = 1 -- Data_in = 06 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8296 ns -- Control bit = 1 -- Data_in = ff -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 01000 -- Expected outputs = 01000 -- Valid packet counter= 8 
+ 
+Time =       8306 ns -- Control bit = 1 -- Data_in = fe -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8316 ns -- Control bit = 1 -- Data_in = fd -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8326 ns -- Control bit = 1 -- Data_in = fc -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8336 ns -- Control bit = 1 -- Data_in = fb -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8346 ns -- Control bit = 1 -- Data_in = fa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8356 ns -- Control bit = 1 -- Data_in = 08 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00100 -- Expected outputs = 00100 -- Valid packet counter= 8 
+ 
+Time =       8366 ns -- Control bit = 1 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8376 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00010 -- Expected outputs = 00010 -- Valid packet counter= 8 
+ 
+Time =       8386 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8396 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8406 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8416 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8426 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8436 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8446 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8456 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8466 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8476 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8486 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8496 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8506 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8516 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8526 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8536 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8546 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8556 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8566 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8576 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8586 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8596 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8606 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8616 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8626 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8636 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8646 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8656 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8666 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8676 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8686 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8696 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8706 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8716 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8726 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8736 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8746 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8756 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8766 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8776 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8786 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8796 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8806 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8816 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8826 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8836 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8846 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8856 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8866 ns -- Control bit = 1 -- Data_in = aa -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00000 -- Expected outputs = 00000 -- Valid packet counter= 8 
+ 
+Time =       8876 ns -- Control bit = 0 -- Data_in = 00 -- Outputs[preamble_valid,dst_addr_valid,src_addr_valid,type_length_valid,packet_size_valid]= 00001 -- Expected outputs = 00001 -- Valid packet counter= 8 
+ 
+Total number of valid packets =  9 
+Test Finished with           0 Errors ... See logs above for more details 
+ 
